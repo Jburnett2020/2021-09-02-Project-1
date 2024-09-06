@@ -1,5 +1,5 @@
 # 2021-09-02-Project-1
-# Open-ended creative project in Processing and transfer to p5.js for github - “Show me what you’ve got” with Processing.
+# Open-ended creative project in Processing - “Show me what you’ve got” with Processing.
 # Should have at least the following:
 #      Proper use of setup() and draw()
 #      A loop of some kind (‘for’ or ‘while’ loop)
