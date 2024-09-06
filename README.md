@@ -1,11 +1,6 @@
 # 2021-09-02-Project-1
-# Julia Burnett's Projects
-
-# Julia Burnett's Projects
-
-This repository contains various projects related to Creative Computation.
-
-- <a href="#" onclick="loadSketch()">View the Processing Sketch</a>
+# Julia Burnett's Projects, This repository contains various projects related to Creative Computation.
+<a href="#" onclick="loadSketch()">View the Processing Sketch</a>
 
 <script>
 function loadSketch() {
