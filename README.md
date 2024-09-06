@@ -1,5 +1,4 @@
 # 2021-09-02-Project-1
-# Julia Burnett's Projects
 # Open-ended creative project in Processing and transfer to p5.js for github - “Show me what you’ve got” with Processing.
 # Should have at least the following:
 #      Proper use of setup() and draw()
