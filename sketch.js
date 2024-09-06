@@ -33,7 +33,7 @@ let xSpeed = 1.5;
 let ySpeed = 1.5;
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(1000, 1000);
   bgc = color(0); // Initialize bgc here
   ballColor = color(13, 255, 164);
   boxColor = color(255, 80, 127);
