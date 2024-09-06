@@ -1,23 +1,5 @@
 # 2021-09-02-Project-1
-# Julia Burnett's Projects, This repository contains various projects related to Creative Computation.
-<a href="#" onclick="loadSketch()">View the Processing Sketch</a>
-
-<script>
-function loadSketch() {
-    fetch('p5-example/index.html')
-        .then(response => response.text())
-        .then(data => {
-            document.body.innerHTML = data;
-            const script = document.createElement('script');
-            script.src = 'p5-example/sketch.js';
-            document.body.appendChild(script);
-            const p5Script = document.createElement('script');
-            p5Script.src = 'p5-example/p5.min.js';
-            document.body.appendChild(p5Script);
-        });
-}
-</script>
-
+# Julia Burnett's Projects
 # Open-ended creative project in Processing and transfer to p5.js for github - “Show me what you’ve got” with Processing.
 # Should have at least the following:
 #      Proper use of setup() and draw()
